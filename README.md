@@ -1,1 +1,1 @@
-# seoulth_mds
+# autonomous RC car project 2020   
